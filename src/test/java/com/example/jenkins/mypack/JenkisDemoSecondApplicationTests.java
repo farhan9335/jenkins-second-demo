@@ -12,6 +12,7 @@ class JenkisDemoSecondApplicationTests {
 
 	public static Logger logger = LoggerFactory.getLogger(JenkisDemoSecondApplicationTests.class);
 
+	
 	@Test
 	public void contextLoads() {
 		logger.info("<================ starting to contextLoads() method=============>");
