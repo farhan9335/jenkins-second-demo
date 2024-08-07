@@ -1,0 +1,5 @@
+server:
+  port: 8485
+spring:
+  application:
+    name: jenkis-demo-second
