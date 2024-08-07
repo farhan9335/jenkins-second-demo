@@ -21,6 +21,7 @@ public class JenkisDemoSecondApplication {
 	@PostConstruct
 	public void initialization() {
 		logger.info("<===================Started to execute initialization()=========================>");
+		logger.info("<===================Second time Started to execute initialization()=========================>");
 	}
 
 }
